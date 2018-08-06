@@ -5,6 +5,7 @@ public class MainTest {
 		// TODO Auto-generated method stub
 		System.out.println("asdfasdf");
 		System.out.println("ㅇㄴㅀㄴㅊㅀㄴㅇㄹ");
+		System.out.println("asdfasdf");
 	}
 
 }
